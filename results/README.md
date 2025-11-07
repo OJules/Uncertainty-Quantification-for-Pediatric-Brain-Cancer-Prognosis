@@ -1,4 +1,4 @@
-# 📊 Uncertainty Quantification for Lung Cancer Prognosis - Results
+# 📊 🧠 Uncertainty Quantification for Pediatric Brain Cancer Prognosis - Results
 
 **Author:** Jules Odje  
 **Institution:** University of Neuchâtel  
@@ -9,7 +9,7 @@
 
 ## 🎯 Executive Summary
 
-This project implements and compares three uncertainty quantification (UQ) methods for lung cancer survival prediction:
+This project implements and compares three uncertainty quantification (UQ) methods for pediatric brain cancer survival prediction:
 - **Conformal Prediction**: Provides prediction sets with coverage guarantees
 - **Bayesian Inference**: Quantifies uncertainty through probability distributions
 - **Model Calibration**: Ensures predicted probabilities reflect true likelihoods
