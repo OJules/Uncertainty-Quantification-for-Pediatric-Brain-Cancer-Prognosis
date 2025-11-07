@@ -241,10 +241,13 @@ For detailed results, see **[results/README.md](results/README.md)**.
 
 ### Dataset
 
-- **Source:** Lung Cancer Exploratory (LCE) dataset
-- **Size:** 218 patients (174 training, 44 test)
-- **Features:** 23 clinical and genomic features
-- **Target:** 5-year survival (binary: long-term vs short-term)
+- **Source:** cBioPortal - Pediatric Brain Tumor Studies
+- **Tumor Types:** Glioblastoma and Astrocytoma
+- **Size:** 218 pediatric patients (174 training, 44 test)
+- **Features:** 23 clinical and genomic features (mutation status, 
+  tumor characteristics, demographics)
+- **Target:** 5-year survival (binary: long-term vs short-term survivors)
+- **Age Range:** Pediatric population
 
 ### Models
 
@@ -287,9 +290,9 @@ For complete methodology, see **[docs/methodology.md](docs/methodology.md)**.
 
 If you use this work in your research, please cite:
 ```bibtex
-@mastersthesis{kouakou2024uncertainty,
+@mastersthesis{Odje2024uncertainty,
   title={Uncertainty Quantification for Machine Learning in Medical Prognosis: 
-         A Case Study on Lung Cancer Survival Prediction},
+         A Case Study on Pediatric Brain Cancer Survival Prediction},
   author={Odje, Jules },
   year={2024},
   school={University of Neuchâtel},
