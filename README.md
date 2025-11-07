@@ -84,7 +84,7 @@ Based on our findings, we propose a **revised 3-tier clinical decision framework
 
 ## 📁 Project Structure
 ```
-lung-cancer-uncertainty-quantification/
+brain-cancer-uncertainty-quantification/
 │
 ├── README.md                          # 👈 You are here
 ├── requirements.txt                   # Python dependencies
