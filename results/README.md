@@ -169,7 +169,7 @@ Model calibration assesses whether predicted probabilities reflect true frequenc
 | **Both LOW confidence** | 12/44 | 27.3% | **91.7%** | [64.6%, 98.5%] |
 | **Disagreement** | 24/44 | 54.5% | ~50% | - |
 
-![UQ Methods Comparison](figures/uq_methods_comparison.png)
+![UQ Methods Comparison](figures/uq_methods_comparison%20(2).png) 
 ---
 
 ## 🔥 6. The Overconfidence Paradox (Key Discovery)
